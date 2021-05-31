@@ -1,0 +1,10 @@
+C:\Users\Иван\OneDrive\Рабочий стол\Новая папка\WF_12\llab12\bin\Debug\WF_12.exe.config
+C:\Users\Иван\OneDrive\Рабочий стол\Новая папка\WF_12\llab12\bin\Debug\WF_12.exe
+C:\Users\Иван\OneDrive\Рабочий стол\Новая папка\WF_12\llab12\bin\Debug\WF_12.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\Новая папка\WF_12\llab12\obj\Debug\llab12.csprojAssemblyReference.cache
+C:\Users\Иван\OneDrive\Рабочий стол\Новая папка\WF_12\llab12\obj\Debug\WF_12.Form1.resources
+C:\Users\Иван\OneDrive\Рабочий стол\Новая папка\WF_12\llab12\obj\Debug\WF_12.Properties.Resources.resources
+C:\Users\Иван\OneDrive\Рабочий стол\Новая папка\WF_12\llab12\obj\Debug\llab12.csproj.GenerateResource.cache
+C:\Users\Иван\OneDrive\Рабочий стол\Новая папка\WF_12\llab12\obj\Debug\llab12.csproj.CoreCompileInputs.cache
+C:\Users\Иван\OneDrive\Рабочий стол\Новая папка\WF_12\llab12\obj\Debug\WF_12.exe
+C:\Users\Иван\OneDrive\Рабочий стол\Новая папка\WF_12\llab12\obj\Debug\WF_12.pdb
